@@ -1,0 +1,3 @@
+./music.sh
+./diashow.sh
+
